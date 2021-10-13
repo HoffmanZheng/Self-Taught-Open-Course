@@ -14,7 +14,7 @@
 
 7. Reallocate cost from 0 to n, amortized time per insert operations: 
 
-![](https://github.com/NervousOrange/Self-Taught-Open-Course/raw/main/MIT%206.006%20-%20Introduction%20to%20Algorithms/images/Lecture2-amortizationOfDynamicArray)
+![](https://github.com/NervousOrange/Self-Taught-Open-Course/raw/main/MIT%206.006%20-%20Introduction%20to%20Algorithms/images/Lecture2-amortizationOfDynamicArray.png)
 
 | Data Structure | Container | Static | insert_first(x) delete_first | insert_last(x) delete_last | insert_at(i,x) delete_at(i) |
 | -------------- | --------- | ------ | ---------------------------- | -------------------------- | --------------------------- |
