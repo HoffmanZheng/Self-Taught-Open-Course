@@ -1,5 +1,7 @@
 # Self-Taught-Open-Course
-Repository related to CS open-course notes and codes. Look in individual course directories for specific codes and READMEs.
+Repository related to computer science open-course lecture summary and assignment. Look in individual course directories for specific codes and READMEs.
 
-[MIT 6.006 - Introduction to Algorithms](./MIT 6.006 - Introduction to Algorithms)
+## In Process
+
+[MIT 6.006 - Introduction to Algorithms](https://github.com/NervousOrange/Self-Taught-Open-Course/raw/main/MIT 6.006 - Introduction to Algorithms)
 
